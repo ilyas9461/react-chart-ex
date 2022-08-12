@@ -8,7 +8,7 @@ function App() {
   return (
     <div>
       <div className="App-header">
-        {" "}
+
         <h2>Students Payments Chart Example</h2>
       </div>
       <div className="App">
